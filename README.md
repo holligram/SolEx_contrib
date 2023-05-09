@@ -18,8 +18,15 @@ Unofficial modification of the SolEx case to include an interlocking flange and 
 
 <img src="https://github.com/holligram/SolEx_lighttight/blob/main/images/interlock_cross_section.png" width="800">
 
+## About
 
-Original project by Christain Buil at http://www.astrosurf.com/solex/
+ATTRIBUTE: This is a redesign of the of the case for the SolEX project created by Christain Buil at http://www.astrosurf.com/solex/
+
+REDESIGN: by Graham Hollis [holligram](https://github.com/holligram)
+
+LICENSE: Creative Commons Zero v1.0 Universal
+
+
 
 
  
