@@ -2,7 +2,7 @@
 
 Unofficial modification of the SolEx case to include an interlocking flange and groove in the top and bottom case respectively, to help keep the internal cavity of the case lighttight. The current case design requires lapping the two mating surfaces by sanding then or sealing the interface with tape which this modification does not require.
 
-Both pieces can be printed without support but the bottom case does benifit with support from the bed for support of the countersunk cap screw bolt head holes. 
+Both pieces can be printed without support but the bottom case does benefit if you add support from the bed during slicing. This helps with the countersunk cap screw bolt head holes. 
 
 ## Complete Case
 
