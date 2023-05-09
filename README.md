@@ -27,7 +27,7 @@ The original can project is found at http://www.astrosurf.com/solex/
 
 REDESIGN: by Graham Hollis [holligram](https://github.com/holligram)
 
-LICENSE: [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+LICENSE: [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/){:target="_blank"}
 
 
 
