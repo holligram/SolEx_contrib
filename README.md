@@ -2,6 +2,8 @@
 
 Unofficial modification of the SolEx case to include an interlocking flange and groove in the top and bottom case respectively, to help keep the internal cavity of the case lighttight. The current case design requires lapping the two mating surfaces by sanding then or sealing the interface with tape which this modification does not require.
 
+Both pieces can be printed without support but the bottom case does benifit with support from the bed for support of the countersunk cap screw bolt head holes. 
+
 ## Complete Case
 
 <img src="https://github.com/holligram/SolEx_lighttight/blob/main/images/case.png" width="800">
@@ -20,7 +22,8 @@ Unofficial modification of the SolEx case to include an interlocking flange and 
 
 ## About
 
-ATTRIBUTE: This is a redesign of the of the case for the SolEX project created by Christain Buil at http://www.astrosurf.com/solex/
+ATTRIBUTE: This is a redesign of the of the case for the SolEX project that was created by Christain Buil.
+The original can project is found at http://www.astrosurf.com/solex/
 
 REDESIGN: by Graham Hollis [holligram](https://github.com/holligram)
 
