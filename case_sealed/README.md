@@ -1,6 +1,6 @@
 # SolEx Sealed Case
 
-Unofficial modification of the SolEx case to include an interlocking flange and groove in the top and bottom case respectively, to help keep the internal cavity of the case lighttight. The current case design requires lapping the two mating surfaces by sanding then, or some projectes seal the interface with tape. This modification does not require any prep before assembly.
+A change made to the SolEx case to include an interlocking flange and groove in the top and bottom case respectively, to help keep the internal cavity of the case lighttight. The current case design requires lapping the two mating surfaces by sanding then, or some projectes seal the interface with tape. This modification does not require any prep before assembly.
 
 Both pieces can be printed without support but the bottom case does benefit if you add support from the bed during slicing. This helps with the countersunk cap screw bolt head holes. 
 
