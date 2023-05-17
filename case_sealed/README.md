@@ -1,24 +1,24 @@
-# SolEx Lighttight Case
+# SolEx Sealed Case
 
-Unofficial modification of the SolEx case to include an interlocking flange and groove in the top and bottom case respectively, to help keep the internal cavity of the case lighttight. The current case design requires lapping the two mating surfaces by sanding then, or sealing the interface with tape. This modification does not require any prep before assembly.
+Unofficial modification of the SolEx case to include an interlocking flange and groove in the top and bottom case respectively, to help keep the internal cavity of the case lighttight. The current case design requires lapping the two mating surfaces by sanding then, or some projectes seal the interface with tape. This modification does not require any prep before assembly.
 
 Both pieces can be printed without support but the bottom case does benefit if you add support from the bed during slicing. This helps with the countersunk cap screw bolt head holes. 
 
 ## Complete Case
 
-<img src="https://github.com/holligram/SolEx_lighttight/blob/main/images/case.png" width="800">
+<img src="https://github.com/holligram/SolEx_contrib/blob/main/case_sealed/images/case.png" width="800">
 
 ## Case Top
 
-<img src="https://github.com/holligram/SolEx_lighttight/blob/main/images/case_top.png" width="800">
+<img src="https://github.com/holligram/SolEx_contrib/blob/main/case_sealed/images/case_top.png" width="800">
 
 ## Case Bottom
 
-<img src="https://github.com/holligram/SolEx_lighttight/blob/main/images/case_bottom.png" width="800">
+<img src="https://github.com/holligram/SolEx_contrib/blob/main/case_sealed/images/case_bottom.png" width="800">
 
 ## Interlock cross section
 
-<img src="https://github.com/holligram/SolEx_lighttight/blob/main/images/interlock_cross_section.png" width="800">
+<img src="https://github.com/holligram/SolEx_contrib/blob/main/case_sealed/images/interlock_cross_section.png" width="800">
 
 ## About
 
