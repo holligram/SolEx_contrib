@@ -2,9 +2,9 @@
 
 These are my 3D modeleling contributions for the SolEx/StarEx project.
 
-## Sealed Case(https://github.com/holligram/SolEx_contrib/tree/main/case_sealed)
+## [Sealed Case](https://github.com/holligram/SolEx_contrib/tree/main/case_sealed)
 
-## Grating container(https://github.com/holligram/SolEx_contrib/tree/main/grating_storage)
+## [Grating container](https://github.com/holligram/SolEx_contrib/tree/main/grating_storage)
 
 
 ## About
