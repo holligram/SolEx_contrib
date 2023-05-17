@@ -23,7 +23,7 @@ Both pieces can be printed without support but the bottom case does benefit if y
 ## About
 
 ATTRIBUTE: This is a redesign of the of the case for the SolEX project that was created by Christain Buil.
-The original can project is found at http://www.astrosurf.com/solex/
+The original project can be found at http://www.astrosurf.com/solex/
 
 REDESIGN: by Graham Hollis [holligram](https://github.com/holligram)
 
